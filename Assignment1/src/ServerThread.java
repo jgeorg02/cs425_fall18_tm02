@@ -22,6 +22,9 @@ public class ServerThread extends Thread {
 			PrintWriter writer = new PrintWriter(output, true);
 
 			String text;
+			int min = 300;
+			int max = 2000;
+			
 			text = reader.readLine();
 			System.out.println("Server: " + text);
 
@@ -34,15 +37,17 @@ public class ServerThread extends Thread {
 			 * System.out.println(new String(buffer.array(), Charset.forName("UTF-8")));
 			 */
 
-			long l = System.currentTimeMillis();
+			/*long l = System.currentTimeMillis();
 			byte b[] = new byte[8];
 
 			ByteBuffer buf = ByteBuffer.wrap(b);
 			buf.putLong(l);
-System.out.println(b.length);
+System.out.println(b.length);*/
 			//if (b.length <= 300 * 1000 && b.length >= 2000 * 1000) System.out.println("hi");
+			
+			int payload = (int)(Math.random()*((max-min)+1))+min;
 
-				writer.println("WELCOME " + message[message.length - 1]);
+				writer.println("WELCOME " + message[message.length - 1] + " " + payload * 1024);
 
 			socket.close();
 		} catch (IOException ex) {
