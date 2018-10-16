@@ -20,34 +20,39 @@ public class Client {
 		String hostname = ip;
 		// int port = 999;
 
-		try (Socket socket = new Socket(hostname, port)) {
+		for (int i = 0; i < 300; i++) {
+			try (Socket socket = new Socket(hostname, port)) {
 
-			OutputStream output = socket.getOutputStream();
-			PrintWriter writer = new PrintWriter(output, true);
+				OutputStream output = socket.getOutputStream();
+				PrintWriter writer = new PrintWriter(output, true);
 
-			Scanner scan = new Scanner(System.in);
-			String text;
+				Scanner scan = new Scanner(System.in);
+				String text;
 
-			text = "HELLO " + "Local Address: " + socket.getLocalAddress() + " Port: " + port + " User id: " + userId;
+				text = "HELLO " + "Local Address: " + socket.getLocalAddress() + " Port: " + port + " User id: "
+						+ userId;
 
-			writer.println(text);
+				long timeSend = System.nanoTime();
 
-			InputStream input = socket.getInputStream();
-			BufferedReader reader = new BufferedReader(new InputStreamReader(input));
+				writer.println(text);
 
-			System.out.println(reader.readLine());
+				InputStream input = socket.getInputStream();
+				BufferedReader reader = new BufferedReader(new InputStreamReader(input));
 
-			scan.close();
+				System.out.println(reader.readLine() + "    RTT: " + (long) (System.nanoTime() - timeSend) + " ns");
 
-			socket.close();
+				scan.close();
 
-		} catch (UnknownHostException ex) {
+				socket.close();
 
-			System.out.println("Server not found: " + ex.getMessage());
+			} catch (UnknownHostException ex) {
 
-		} catch (IOException ex) {
+				System.out.println("Server not found: " + ex.getMessage());
 
-			System.out.println("I/O error: " + ex.getMessage());
+			} catch (IOException ex) {
+
+				System.out.println("I/O error: " + ex.getMessage());
+			}
 		}
 	}
 }
