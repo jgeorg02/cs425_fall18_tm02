@@ -6,21 +6,26 @@ import java.io.*;
  * This program demonstrates a simple TCP/IP socket client that reads input from
  * the user and prints echoed message from the server.
  */
-public class Client {
+public class Client extends Thread {
 
 	private int userId;
+	private String ip;
+	private int port;
+	private int n;
 
-	public Client(int user) {
+	public Client(int user, String ip, int port, int n) {
 		this.userId = user;
+		this.ip = ip;
+		this.port = port;
+		this.n = n;
 
 	}
 
-	public void clientConnection(String ip, int port) {
+	public void run() {
 
 		String hostname = ip;
-		// int port = 999;
 
-		for (int i = 0; i < 300; i++) {
+		for (int i = 0; i < n; i++) {
 			try (Socket socket = new Socket(hostname, port)) {
 
 				OutputStream output = socket.getOutputStream();
@@ -38,8 +43,11 @@ public class Client {
 
 				InputStream input = socket.getInputStream();
 				BufferedReader reader = new BufferedReader(new InputStreamReader(input));
+				
+				reader.readLine();
 
-				System.out.println(reader.readLine() + "    RTT: " + (long) (System.nanoTime() - timeSend) + " ns");
+				// RTT:
+				System.out.println("RTT: " + (long) (System.nanoTime() - timeSend) + " ns");
 
 				scan.close();
 
