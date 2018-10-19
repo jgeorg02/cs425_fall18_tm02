@@ -38,6 +38,9 @@ public class Server {
 		int requests = 0;
 		long start;
 
+		if (args.length == 1)
+			port = Integer.parseInt(args[0]);
+
 		// Calculate current memory use:
 		long beforeUsedMem = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
 		long afterUsedMem;
