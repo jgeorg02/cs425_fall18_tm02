@@ -1,0 +1,5413 @@
+Server is listening on port 9999
+Requests for 15017 millisec: 1
+Memory Utilization: 271528
+CPU load: 0.0
+
+Requests for 362 millisec: 1
+Memory Utilization: 1917848
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1776336
+CPU load: 100.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 145128
+CPU load: 50.0
+
+Requests for 15 millisec: 1
+Memory Utilization: 0
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 425744
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2598760
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 806904
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1364592
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 390240
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 0
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1015152
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 2728712
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1784520
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1531648
+CPU load: 100.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 0
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1332704
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1201424
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 790576
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 0
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 375816
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 2033264
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1837680
+CPU load: 100.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 0
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1327368
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 384664
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1961648
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1707776
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1628792
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1418088
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 805656
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 932912
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 780680
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1625168
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2403240
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1872608
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1837096
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 997632
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 350256
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1332984
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1480488
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1244776
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1668960
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1387688
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 511728
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 751944
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 602576
+CPU load: 50.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2071384
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1905352
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2166984
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1090480
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 877160
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1454312
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 11160
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 572928
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1080328
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 888888
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 496904
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1224120
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 944296
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 823536
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 3093376
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1299416
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1277896
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 611128
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2710112
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 538824
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 582664
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 604752
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 554152
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1124608
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 2256520
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1965856
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1323968
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1618376
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2194440
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 351784
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1316112
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 303192
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1351616
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 908328
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1126960
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1265584
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 960096
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 788472
+CPU load: 0.0
+
+Requests for 9 millisec: 3
+Memory Utilization: 434744
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1167232
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 909480
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1073760
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 526864
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1785336
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1248224
+CPU load: 100.0
+
+Requests for 14 millisec: 1
+Memory Utilization: 1003024
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1430392
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 539232
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1355624
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 2716424
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 512256
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 514664
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1591184
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 3598336
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 882160
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1032208
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 368880
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1320664
+CPU load: 0.0
+
+Requests for 9 millisec: 2
+Memory Utilization: 663456
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1528720
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 613208
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1157736
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2942776
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2041136
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1137816
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1026032
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 243344
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 55848
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 801176
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 725480
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 952296
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1072408
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1827256
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1793752
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1455648
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 415752
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 776448
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1367952
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1429632
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 788272
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 779712
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 2374648
+CPU load: 50.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 814136
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 876424
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 394728
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1597136
+CPU load: 100.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1670488
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 725384
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 1455600
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2741288
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1468712
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1298848
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2580632
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1582040
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 343360
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1032832
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 2672
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 927096
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1145168
+CPU load: 0.0
+
+Requests for 6 millisec: 3
+Memory Utilization: 2497048
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 99208
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 404840
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1553856
+CPU load: 100.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1433416
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1930584
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 44184
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2872480
+CPU load: 100.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2050768
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 520376
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 114672
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 436216
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1188984
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 442656
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 480736
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 715832
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1902592
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2656
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1517664
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1007616
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1046808
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1110320
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 927336
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 559432
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 952912
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 566672
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 3250504
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 5712
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1823312
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1025200
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 521256
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1008840
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 951192
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1072824
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 1113296
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1946416
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 896480
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 723848
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 386616
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 3501584
+CPU load: 100.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 868024
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 1177224
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 732664
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 668832
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 663976
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 481384
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 2165440
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1441496
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 609144
+CPU load: 0.0
+
+Requests for 2 millisec: 3
+Memory Utilization: 1311624
+CPU load: 100.0
+
+Requests for 15 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2222768
+CPU load: 0.0
+
+Requests for 31 millisec: 3
+Memory Utilization: 1822768
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 33760
+CPU load: 50.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1543896
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2191800
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 632872
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 542072
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1582936
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 3181056
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 1890816
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 91264
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1040408
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 578896
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1576840
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1805280
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 396512
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 1372400
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 791096
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1260152
+CPU load: 0.0
+
+Requests for 7 millisec: 3
+Memory Utilization: 2883712
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1834784
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 527408
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 1298240
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2172296
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1896040
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 899576
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1584312
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2257544
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 297040
+CPU load: 100.0
+
+Requests for 15 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1373344
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 446800
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 512536
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1994424
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 789632
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1117120
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 456424
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 732488
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1953176
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1644560
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 636384
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 353648
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1316096
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1234384
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 223712
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 505456
+CPU load: 0.0
+
+Requests for 8 millisec: 4
+Memory Utilization: 1341248
+CPU load: 50.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1023360
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1595368
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 341472
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1393424
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1406968
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 840504
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1761008
+CPU load: 0.0
+
+Requests for 7 millisec: 2
+Memory Utilization: 2176792
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1617432
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2144128
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1846152
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 505424
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1009936
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 988776
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1430944
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 995992
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2033272
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 1051536
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 631256
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1307904
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 2177168
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1189216
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1533408
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1750480
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 571936
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1500616
+CPU load: 50.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 897992
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 871840
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1911320
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 337560
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 318832
+CPU load: 50.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 2428576
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1850984
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 282192
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1041088
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2625952
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1386680
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1245560
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1730024
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 1000624
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 779560
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1550552
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 718816
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1916152
+CPU load: 50.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1257056
+CPU load: 0.0
+
+Requests for 7 millisec: 3
+Memory Utilization: 1159640
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 526112
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 661232
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1594784
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1638240
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1747152
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2873608
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 724040
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1971040
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 786992
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1832104
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1452432
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1395984
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 717776
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1820248
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2407592
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 19528
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3156832
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 754552
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1664200
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 777592
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 957160
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1221432
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 783896
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 395184
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 1477400
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 492464
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1151600
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1968744
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 1869992
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 640680
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 880032
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1401312
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1584232
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1121528
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1487448
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 854936
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 545168
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 984656
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 8000
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2552592
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1672360
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 556000
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1196296
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1655432
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1684568
+CPU load: 0.0
+
+Requests for 8 millisec: 3
+Memory Utilization: 682272
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 212320
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1881328
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1770144
+CPU load: 0.0
+
+Requests for 4 millisec: 2
+Memory Utilization: 1441264
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 779768
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1610784
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 976592
+CPU load: 50.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 2338320
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 393104
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 968672
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1437376
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 277192
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 2741552
+CPU load: 100.0
+
+Requests for 16 millisec: 1
+Memory Utilization: 1982952
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 536808
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1431912
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 549576
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1970296
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2130560
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 819264
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 677320
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2621224
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 947680
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 928984
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1439456
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1150968
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1547416
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2021784
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1018624
+CPU load: 0.0
+
+Requests for 6 millisec: 2
+Memory Utilization: 80280
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1332680
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 555200
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1418808
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 25424
+CPU load: 50.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 441120
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2622896
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1694704
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 914480
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 442560
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 2182512
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1770424
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1481696
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 515888
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 960096
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 675112
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1979384
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1066960
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1462736
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 587952
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1492632
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1003032
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2193904
+CPU load: 0.0
+
+Requests for 6 millisec: 3
+Memory Utilization: 1478336
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1785640
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1919856
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1137976
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 914880
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1341160
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1506000
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 819592
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2556400
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1417880
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 704584
+CPU load: 50.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 849344
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 615464
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2006040
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1975936
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 692080
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 557192
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 397264
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1450744
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1857328
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 725000
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2212776
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 623952
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1291512
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2281256
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2147600
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1495240
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 1284232
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1739840
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 940824
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1202544
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2222056
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 47240
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 829792
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 930592
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2180424
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1891536
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 629712
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 715784
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1020040
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2487376
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 589416
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 615896
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 158696
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 461352
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1460592
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1966920
+CPU load: 50.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 896008
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1772184
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1817264
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 503408
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 791664
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 263256
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1042872
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2563488
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1292128
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 865192
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1189976
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1164376
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1215744
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 564192
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 382512
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1086128
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1806640
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 457288
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1971208
+CPU load: 50.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 753960
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1024424
+CPU load: 50.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1262992
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 585824
+CPU load: 0.0
+
+Requests for 7 millisec: 3
+Memory Utilization: 1267096
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 506848
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1329096
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 869112
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1257232
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1697992
+CPU load: 0.0
+
+Requests for 8 millisec: 3
+Memory Utilization: 1506376
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 183776
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 579328
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 804600
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 555256
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 598696
+CPU load: 0.0
+
+Requests for 1 millisec: 4
+Memory Utilization: 3240016
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 2423552
+CPU load: 100.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 471384
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2076288
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1542696
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 147240
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 108552
+CPU load: 100.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 6 millisec: 2
+Memory Utilization: 341312
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1207184
+CPU load: 50.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1725320
+CPU load: 100.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1212960
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 100.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 1437744
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 578240
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 3389936
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 619536
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1479400
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1750096
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 1886744
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 185720
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1286792
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1394776
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1383528
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 877792
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1791160
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1132936
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1640344
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 3957936
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1829024
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 964448
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1274632
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1003840
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1355216
+CPU load: 0.0
+
+Requests for 5 millisec: 3
+Memory Utilization: 1603840
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 743720
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1893304
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 912536
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 680160
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 979536
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1099800
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 871224
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1199408
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 692848
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 663536
+CPU load: 100.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 613912
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1930312
+CPU load: 0.0
+
+Requests for 1 millisec: 4
+Memory Utilization: 3135648
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 453064
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 2044824
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 706840
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 173464
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 953208
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 808104
+CPU load: 50.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1739144
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 510888
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2452984
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1568296
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1019880
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1582408
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1122096
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2166520
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1506752
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 544680
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2876712
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1884240
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 916784
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2074488
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 694216
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 775712
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 689616
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 906616
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 860424
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2155192
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 915664
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1077128
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1600816
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1118872
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 2844632
+CPU load: 33.3
+
+Requests for 6 millisec: 1
+Memory Utilization: 1559512
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1087040
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 270000
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2778024
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1589032
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1631784
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 462024
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 2104368
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1682296
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 977040
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 891264
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1165392
+CPU load: 0.0
+
+Requests for 7 millisec: 4
+Memory Utilization: 2711776
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1244744
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1053864
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1562776
+CPU load: 100.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 1980736
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2558968
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1525400
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 894496
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 2858296
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 852568
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2150784
+CPU load: 100.0
+
+Requests for 8 millisec: 5
+Memory Utilization: 3383144
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1823720
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 395248
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 306848
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1406664
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1570392
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 656488
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 324744
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3240040
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 624848
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 697104
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1611048
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 267160
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 182912
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2121040
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1641088
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 673168
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 782664
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 1235104
+CPU load: 50.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 930776
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2932872
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 2065912
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1258776
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1406128
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 628496
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1243408
+CPU load: 50.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 862352
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 523656
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 944032
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1360200
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 643472
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1073408
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1467448
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 711640
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1064352
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1336808
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1888272
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1851736
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1715648
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1863464
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2664200
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 533840
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1982824
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1580944
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1371888
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 804776
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1646520
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1554040
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1959464
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1065288
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 536752
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1491296
+CPU load: 50.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 2823360
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 578488
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2263608
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3997032
+CPU load: 100.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1473168
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1102288
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1473336
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1746440
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2009928
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1255816
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1379312
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1829080
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1575160
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2462576
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1957280
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 719272
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1708176
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1512592
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 598976
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1403848
+CPU load: 50.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 505368
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1234936
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1914584
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2019384
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1153728
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1196960
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 719944
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 2539080
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 609824
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1480304
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1058680
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 937768
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1563240
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 154864
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 1030248
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2260664
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1166248
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 697248
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1444112
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 683376
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1259328
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1446640
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 688112
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 658584
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1597520
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 454440
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1017232
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2974208
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1356448
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1789184
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1385536
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 594072
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 488792
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 3229608
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1424264
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2044504
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 834448
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2071640
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1364664
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1108688
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1976128
+CPU load: 100.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1643200
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1105656
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1422560
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 245912
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2040928
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 669632
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1728672
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 398368
+CPU load: 100.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 1398720
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 446112
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2286208
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 3214800
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1834448
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1058312
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2333376
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 211920
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1495648
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 665048
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 191184
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2458112
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1943248
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1653424
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1197472
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1682120
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1298656
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1687136
+CPU load: 0.0
+
+Requests for 7 millisec: 2
+Memory Utilization: 2959760
+CPU load: 50.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1021160
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1852544
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 412040
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 2018232
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1717536
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1398624
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1292112
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2750800
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1824112
+CPU load: 0.0
+
+Requests for 6 millisec: 2
+Memory Utilization: 771616
+CPU load: 100.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1934080
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 599384
+CPU load: 0.0
+
+Requests for 6 millisec: 2
+Memory Utilization: 2607232
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1895064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1904296
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1552368
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1063896
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1256384
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 263592
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 716496
+CPU load: 100.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1360120
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1437616
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 1952120
+CPU load: 0.0
+
+Requests for 8 millisec: 3
+Memory Utilization: 89336
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 844360
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 2002840
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 906256
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1072976
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 128272
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 642360
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1215072
+CPU load: 0.0
+
+Requests for 3 millisec: 3
+Memory Utilization: 1193656
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 862936
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 695336
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2211392
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1083336
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 605208
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 702648
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1309952
+CPU load: 0.0
+
+Requests for 9 millisec: 5
+Memory Utilization: 2630832
+CPU load: 100.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1258560
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 166688
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1155552
+CPU load: 0.0
+
+Requests for 7 millisec: 4
+Memory Utilization: 1137904
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1157640
+CPU load: 0.0
+
+Requests for 8 millisec: 4
+Memory Utilization: 1341304
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1150240
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 593816
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1597096
+CPU load: 100.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1586032
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 599416
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 550816
+CPU load: 100.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2292488
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1094280
+CPU load: 100.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 663040
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 952320
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1285840
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 751272
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2485248
+CPU load: 100.0
+
+Requests for 15 millisec: 1
+Memory Utilization: 1890688
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1444800
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1911720
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 22608
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3183080
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1356952
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2037400
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3419584
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 922488
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1239864
+CPU load: 100.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 391312
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 645152
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1177824
+CPU load: 100.0
+
+Requests for 14 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1231072
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1071408
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 680064
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 2519672
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 785072
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 421840
+CPU load: 100.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1522368
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 753168
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 861136
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2087440
+CPU load: 100.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 1450632
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1064712
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1653464
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 815624
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1549160
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3064
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1182088
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 685744
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 660672
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 3678632
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1356056
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 631504
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1626896
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1732424
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 842648
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1275560
+CPU load: 100.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1480376
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 759416
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1944128
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 3473576
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1169432
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1333232
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 914680
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 765176
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 499016
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1603352
+CPU load: 100.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 3598720
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 711280
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2540024
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 2051512
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1495968
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1075944
+CPU load: 0.0
+
+Requests for 7 millisec: 2
+Memory Utilization: 1208928
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 149432
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1125648
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1050976
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 633448
+CPU load: 100.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 601232
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1135416
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2033976
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1017392
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1999256
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1476456
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1335560
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 247216
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 3100088
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1655528
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1372544
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 496160
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1563296
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2154168
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1152824
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1198992
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1074480
+CPU load: 0.0
+
+Requests for 5 millisec: 3
+Memory Utilization: 1409328
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1691128
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1164624
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 997864
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1079240
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 187592
+CPU load: 100.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 2762120
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1342880
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1092144
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 396384
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 863336
+CPU load: 0.0
+
+Requests for 15 millisec: 1
+Memory Utilization: 1833192
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2081480
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 423712
+CPU load: 0.0
+
+Requests for 10 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 835200
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 590208
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 349296
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 1099264
+CPU load: 50.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1877264
+CPU load: 0.0
+
+Requests for 9 millisec: 5
+Memory Utilization: 3899256
+CPU load: 50.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1065592
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1026504
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1717472
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2556712
+CPU load: 50.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1661952
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1576520
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 542784
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 887392
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 1902608
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1407336
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1161848
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2259872
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 735640
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1321688
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 827864
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1243088
+CPU load: 0.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2163592
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2256616
+CPU load: 0.0
+
+Requests for 6 millisec: 3
+Memory Utilization: 3286048
+CPU load: 50.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 807624
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 626928
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 351632
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1022760
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 807928
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 900352
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1123768
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 343792
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1721840
+CPU load: 0.0
+
+Requests for 7 millisec: 4
+Memory Utilization: 2005568
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 777672
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 841536
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 832080
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1807792
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1447376
+CPU load: 100.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1311848
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1271088
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 2399328
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 2009408
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 852296
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 8044664
+CPU load: 25.0
+
+Requests for 27 millisec: 1
+Memory Utilization: 1831840
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1721256
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1853536
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2139968
+CPU load: 0.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 1063184
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1126168
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2151952
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1119768
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 788360
+CPU load: 50.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 470760
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1782904
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1491176
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 646288
+CPU load: 0.0
+
+Requests for 8 millisec: 4
+Memory Utilization: 2910392
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 604064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1941920
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 735632
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1837568
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1332888
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1161640
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2684840
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 740160
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1462728
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 614560
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2105664
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1793320
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 824680
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1028824
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1636232
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 419264
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1655400
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1419488
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 988400
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 100272
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3031664
+CPU load: 0.0
+
+Requests for 3 millisec: 1
+Memory Utilization: 1993264
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1004016
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 674432
+CPU load: 0.0
+
+Requests for 9 millisec: 4
+Memory Utilization: 3493496
+CPU load: 100.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 2667984
+CPU load: 0.0
+
+Requests for 5 millisec: 3
+Memory Utilization: 2647832
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2532056
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 962264
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1096576
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1121000
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 630184
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1977840
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 165296
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 421056
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2576320
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1780040
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1841320
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 586696
+CPU load: 0.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 1268728
+CPU load: 100.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2088568
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2345088
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 2388720
+CPU load: 0.0
+
+Requests for 8 millisec: 3
+Memory Utilization: 1108392
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1373512
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 955568
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1853560
+CPU load: 0.0
+
+Requests for 9 millisec: 4
+Memory Utilization: 2677384
+CPU load: 50.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 909952
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 652776
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1143824
+CPU load: 100.0
+
+Requests for 8 millisec: 4
+Memory Utilization: 3058240
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 947896
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1878624
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1253712
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1429992
+CPU load: 100.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1818088
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 277528
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1396080
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 3 millisec: 2
+Memory Utilization: 2527056
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2079144
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 865640
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1188208
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1859264
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 33304
+CPU load: 50.0
+
+Requests for 12 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 927984
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 498032
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1843240
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1157584
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1208160
+CPU load: 0.0
+
+Requests for 8 millisec: 4
+Memory Utilization: 747392
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 906488
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 686104
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2641280
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1487408
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1873856
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2275336
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2501208
+CPU load: 0.0
+
+Requests for 10 millisec: 5
+Memory Utilization: 1295000
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 5 millisec: 2
+Memory Utilization: 1099288
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1086792
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 719632
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 650888
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1148224
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 601008
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 365560
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2631248
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 556632
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 638832
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 498904
+CPU load: 100.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1290752
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1545488
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2015352
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1609832
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 875592
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 3648
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2095504
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1654272
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1331560
+CPU load: 100.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 623624
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2548664
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1046096
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1421464
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 348808
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 976368
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2175320
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1943096
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1338776
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 774168
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 327328
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2112608
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1053832
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 766232
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 757616
+CPU load: 100.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 511920
+CPU load: 0.0
+
+Requests for 13 millisec: 1
+Memory Utilization: 943376
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1437200
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 1874264
+CPU load: 100.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 2040216
+CPU load: 0.0
+
+Requests for 1 millisec: 4
+Memory Utilization: 1656056
+CPU load: 50.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1041048
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1755648
+CPU load: 0.0
+
+Requests for 7 millisec: 3
+Memory Utilization: 1768736
+CPU load: 100.0
+
+Requests for 9 millisec: 1
+Memory Utilization: 166440
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1067056
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1258984
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1507944
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 954624
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 709160
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 626448
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 653544
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1991600
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 2056000
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1733216
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1864592
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1782576
+CPU load: 50.0
+
+Requests for 11 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1052144
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 555080
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 922568
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1807576
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 1378152
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 893536
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1361552
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 377840
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 706496
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1794736
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 677712
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 1346936
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 490584
+CPU load: 0.0
+
+Requests for 8 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 4 millisec: 2
+Memory Utilization: 2457016
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1826552
+CPU load: 0.0
+
+Requests for 2 millisec: 2
+Memory Utilization: 647696
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 894552
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 732432
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 980584
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1532400
+CPU load: 0.0
+
+Requests for 9 millisec: 3
+Memory Utilization: 2065168
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1528704
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2808168
+CPU load: 0.0
+
+Requests for 4 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1308408
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 930472
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 431128
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 670184
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2521208
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 899704
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 1287376
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 778632
+CPU load: 0.0
+
+Requests for 8 millisec: 2
+Memory Utilization: 142280
+CPU load: 33.3
+
+Requests for 1 millisec: 3
+Memory Utilization: 3372264
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 2964488
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 1174728
+CPU load: 0.0
+
+Requests for 5 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1773704
+CPU load: 0.0
+
+Requests for 5 millisec: 3
+Memory Utilization: 2591648
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2578560
+CPU load: 0.0
+
+Requests for 1 millisec: 3
+Memory Utilization: 2834888
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 2042424
+CPU load: 0.0
+
+Requests for 1 millisec: 1
+Memory Utilization: 782416
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2738504
+CPU load: 0.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1985648
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 2224848
+CPU load: 100.0
+
+Requests for 7 millisec: 1
+Memory Utilization: 1787248
+CPU load: 0.0
+
+Requests for 1 millisec: 2
+Memory Utilization: 109160
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 1508472
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 3064
+CPU load: 0.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 45560
+CPU load: 100.0
+
+Requests for 6 millisec: 1
+Memory Utilization: 933856
+CPU load: 0.0
+
+Requests for 2 millisec: 1
+Memory Utilization: 1507544
+CPU load: 0.0
+
+Requests for 6 millisec: 2
+Memory Utilization: 2048088
+CPU load: 0.0
+
