@@ -9,26 +9,22 @@ public class ClientGenerator {
 
 	public static void main(String args[]) {
 
-		// default value for number of users
-		int N = 10;
-		
-		// default value for number of requests
-		int repetitions = 300;
+		// default values
+		int clients = 10, requests = 300, repetitions = 1;
 
 		// checks the arguments
 		if (args.length == 0) {
-			System.out.println("You have to give server's ip and port! ");
+			System.out.println("You have to give server's IP and port! ");
 			return;
-		} else if (args.length == 4) {
-			N = Integer.parseInt(args[2]);
-			repetitions = Integer.parseInt(args[3]);
+		} else if (args.length == 3) {
+			repetitions = Integer.parseInt(args[2]);
 		}
 
-		// create new clients
-		for (int i = 1; i <= N; i++) {
-			new Client(i, args[0], Integer.parseInt(args[1]), repetitions).start();
+		for (int j = 1; j <= repetitions; j++) {
+			for (int i = 1; i <= clients; i++) {
+				new Client(i, args[0], Integer.parseInt(args[1]), requests).start();
+			}
 		}
-
 	}
 
 }
