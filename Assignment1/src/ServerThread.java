@@ -14,6 +14,7 @@ public class ServerThread extends Thread {
 	}
 
 	public void run() {
+		
 		try {
 			InputStream input = socket.getInputStream();
 			BufferedReader reader = new BufferedReader(new InputStreamReader(input));
@@ -24,31 +25,24 @@ public class ServerThread extends Thread {
 			String text;
 			int min = 300;
 			int max = 2000;
-			
+
 			text = reader.readLine();
-			System.out.println("Server: " + text);
 
 			String message[] = text.split(" ");
+			String payload = "payload: ";
+		
+			int payloadSize = (int) (Math.random() * ((max - min) + 1)) + min;
+			payloadSize *= 1024;
 
-			/*
-			 * Long time = new Long(System.currentTimeMillis()); ByteBuffer buffer =
-			 * ByteBuffer.allocate(Long.BYTES); buffer.putLong(time);
-			 * 
-			 * System.out.println(new String(buffer.array(), Charset.forName("UTF-8")));
-			 */
-
-			/*long l = System.currentTimeMillis();
-			byte b[] = new byte[8];
-
-			ByteBuffer buf = ByteBuffer.wrap(b);
-			buf.putLong(l);
-System.out.println(b.length);*/
-			//if (b.length <= 300 * 1000 && b.length >= 2000 * 1000) System.out.println("hi");
+			writer.println("WELCOME " + message[message.length - 1] + " " + payloadSize);
+			writer.flush();
+			for (int i = 0; i < payloadSize; i++) 
+				payload += '*'; 
+		
+			writer.println(payload);
+			writer.flush();
 			
-			int payload = (int)(Math.random()*((max-min)+1))+min;
-
-				writer.println("WELCOME " + message[message.length - 1] + " " + payload * 1024);
-
+			
 			socket.close();
 		} catch (IOException ex) {
 			System.out.println("Server exception: " + ex.getMessage());
