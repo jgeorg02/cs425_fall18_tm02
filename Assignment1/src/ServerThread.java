@@ -31,7 +31,7 @@ public class ServerThread extends Thread {
 	 * 
 	 * @return the payload
 	 */
-	public byte[] getPayload() {
+	public byte[] createPayload() {
 
 		byte[] payload = new byte[payloadSize];
 		Arrays.fill(payload, (byte) 1);
@@ -58,7 +58,7 @@ public class ServerThread extends Thread {
 			dataOutput.writeUTF("WELCOME " + message[message.length - 1] + " " + payloadSize);
 
 			dataOutput.writeInt(payloadSize); // write length of the message
-			dataOutput.write(getPayload()); // write the message
+			dataOutput.write(createPayload()); // write the message
 
 			socket.close();
 		} catch (IOException ex) {

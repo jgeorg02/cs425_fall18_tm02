@@ -39,7 +39,7 @@ public class Server {
 
 	public static void main(String[] args) {
 
-		int port = 9999, counter = 0, requests = 0; // the counter of the requests that the server served.
+		int port = 9999, counter = 0, requests = 0; // the counter counts the requests that the server served.
 		long start, now;
 		double averageCpu = 0, averageUtilizationMem = 0;
 
