@@ -37,7 +37,6 @@ public class Client extends Thread {
 		this.ip = ip;
 		this.port = port;
 		this.n = n;
-
 	}
 
 	/**
